@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "$2a$10$Bli7N5ovZ4vC3w4sYvLqWOhX7BKwRLiAYtkg1KbqP7dbCSgsVwXWa",
+    "name": "Administrator",
+    "role": "Admin"
+  },
+  {
+    "id": 2,
+    "username": "clerk1",
+    "password": "$2a$10$Bli7N5ovZ4vC3w4sYvLqWOhX7BKwRLiAYtkg1KbqP7dbCSgsVwXWa",
+    "name": "Clerk Analyst",
+    "role": "Clerk"
+  },
+  {
+    "id": 3,
+    "username": "manager1",
+    "password": "$2a$10$Bli7N5ovZ4vC3w4sYvLqWOhX7BKwRLiAYtkg1KbqP7dbCSgsVwXWa",
+    "name": "Operations Manager",
+    "role": "Manager"
+  },
+  {
+    "id": 4,
+    "username": "exec1",
+    "password": "$2a$10$Bli7N5ovZ4vC3w4sYvLqWOhX7BKwRLiAYtkg1KbqP7dbCSgsVwXWa",
+    "name": "Senior Executive",
+    "role": "Executive"
+  }
+]
